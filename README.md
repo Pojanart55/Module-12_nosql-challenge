@@ -41,7 +41,7 @@ The project consists of the following files:
 3.  Remove establishments in Dover.
 4.  Convert string number values to actual numbers for `latitude`, `longitude`, and `RatingValue`.
 
-### Part 3: Exploratory Analysis
+## Part 3: Exploratory Analysis
 
 **Question 1.** Find establishments with a hygiene score of 20.
 
